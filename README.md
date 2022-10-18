@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Spring Tool Suite (STS) and MySQL**
 
-- 👨‍💻 All of my projects are available at [https://chiranjeev-thapliyal.vercel.app/](https://chiranjeev-thapliyal.vercel.app/)
-
 - 📝 I regularly write articles on [https://medium.com/@mohdelyaskhan19](https://medium.com/@mohdelyaskhan19)
 
 - 📫 How to reach me **mohdelyaskhan19@gmail.com**
