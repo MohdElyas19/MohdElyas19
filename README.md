@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mohdelyaskhan19@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Pudr48SAOZpfXYADTqXFhA-JG9DMGvH_/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1f85PgrhBcExN0uSmGeRGejouJG1-ZRJ2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
